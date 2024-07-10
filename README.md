@@ -1,6 +1,3 @@
-Corresponding authors 
-ophelie.david@univ-ubs.fr ; ophelie.david@univ-brest.fr 
-
 # Ancient sedimentary DNA analysis
 
 ## ℹ️ About
@@ -20,6 +17,9 @@ Full description of the pipeline can be found in the paper.
 **SHIELD** is developed by:
 
 - Pauline **Garcia-Ladieu** ([linkedIn]https://www.linkedin.com/in/pauline-garcia-ladieu-23a9a91b9/),
-- Mahaut **Goor** ([linkedIn]https://www.linkedin.com/in/mahaut-goor/),
+- Mahaut **Goor** ([linkedIn]https://www.linkedin.com/in/mahaut-goor/)
+
+## Corresponding authors 
+ophelie.david@univ-ubs.fr ; ophelie.david@univ-brest.fr ; mahautgoor@gmail.com
 
 Citation and link to the publication: [Citation](link)
