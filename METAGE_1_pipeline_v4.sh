@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=paleo
+#SBATCH --job-name=metage1
 
 ####################################################
 #	This is the first part of the metage pipeline 
