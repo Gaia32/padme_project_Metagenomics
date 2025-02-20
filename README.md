@@ -23,4 +23,5 @@ Full description of the pipeline can be found in the paper.
 ophelie.david@univ-ubs.fr ; ophelie.david@univ-brest.fr ; mahautgoor@gmail.com
 
 ## Citation and link to the publication
-[Citation](link)
+[David, O., Vidal, M., Gorczyńska, A., Penaud, A., Pailler, Y., Nicolas, C., Debruyne, R., Martin, N., Goor, M., Garcia-Ladieu, P., Goubert, E., Stéphan, P., Ollivier, M., Barloy-Hubler, F. (2024). New coastal records in northern Brittany (Plouescat, NW France): Sedimentological, palynological and paleogenomic data over the last 7.3 ka BP. Data in Brief. https://doi.org/10.5281/zenodo.12731174.
+]([link](https://doi.org/10.5281/zenodo.12731174))
